@@ -227,7 +227,7 @@ world-settings:
       - HARD
     anti-xray:
       enabled: true
-      engine-mode: 1
+      engine-mode: 2
       max-chunk-section-index: 3
       update-radius: 2
       lava-obscures: false
